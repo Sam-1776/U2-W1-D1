@@ -5,6 +5,9 @@
   header {
     display: none;
   }
+  main {
+    box-shadow: none;
+  }
   article > div {
     display: inline-block;
   }
@@ -19,16 +22,16 @@
   tbody tr:nth-of-type(even) {
     background-color: none;
   }
-  iframe{
+  iframe {
     display: none;
   }
-  section{
+  section {
     display: none;
   }
-  aside{
+  aside {
     display: none;
   }
-  footer{
+  footer {
     display: none;
   }
 }
